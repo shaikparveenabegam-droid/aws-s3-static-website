@@ -10,4 +10,5 @@ Technologies Used:
 - CSS
 
 Outcome:
-Successfully deployed a static website on AWS S3.
+Successfully deployed a static website on AWS S3.Live Website:
+http://parveen-first-website-1234.s3-website.eu-north-1.amazonaws.com
